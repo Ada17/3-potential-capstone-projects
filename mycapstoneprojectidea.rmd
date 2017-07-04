@@ -1,0 +1,29 @@
+---
+title: "Capstone project about predicting Train delays."
+author: "Adanna  Alutu"
+date: "July 4, 2017"
+output: html_document
+---
+##What is the problem  I want to solve
+
+I take the train to work during the weekdays. It's usually a smooth ride and saves a lot of time spent on the highways and in local traffic. The traffic in South Florida during early morning and evening hours is probably one of the worst in the United States. So some of us are grateful for the train option because we at least don't have to deal with the crazy traffic which can actually unfortunately set the tone for your day depending on how smooth the drive was or how much delay was encountered depending on accidents, road blocks and other unforeseen incidents that can occur.
+
+As hinted above, train ride can be very relaxing and works out great with your schedule if it arrives on time. However, sometimes, the trains are late. They can delay for a very few minutes up to hours. You just arrive at the station and hope it's on time. The useful Tri Rail app, helps with the information but not all the time. 
+
+I want to solve the problem of the train delays by predicting when the train will be delayed based on data from previous rides. The Septa train data from Kaggle will be used for this prediction.
+
+##My Client
+
+My client is any passenger who rides the train. They definitely want to know what to expect in case they need to make alternate transportation arrangements or need to change their schedule.
+
+##Data to use
+
+I plan to use the Septa train data from Kaggle website - <https://www.kaggle.com/>
+
+##Planned approach to solve the problem
+
+I plan to use the attributes, variables, observations provided in the data and the knowledge acquired from learning R so far to attempt the solution. Most part, I will definitely rely on my mentor Dr Shmuel Naaman's guidance and experience to get the best solution and prediction for this train delay problem. My mentor has mentioned using some models so I can't wait to see the magic they can do to help with the prediction.
+
+##The deliverables
+
+It's my first time learning R so I expect to have some R code and ggplot and then apply some statistics and other machine learning tools that will be required to complete the project. The R markdown document will also be provided.
